@@ -3,7 +3,7 @@ package amqp_test
 import (
 	"crypto/tls"
 	"crypto/x509"
-	"github.com/streadway/amqp"
+	"github.com/jmank88/amqp"
 	"io/ioutil"
 	"log"
 	"net"

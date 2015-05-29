@@ -6,7 +6,7 @@ AMQP 0.9.1 client with RabbitMQ extensions in Go.
 
 *Beta*
 
-[![Build Status](https://secure.travis-ci.org/streadway/amqp.png)](http://travis-ci.org/streadway/amqp)
+[![Build Status](https://secure.travis-ci.org/jmank88/amqp.png)](http://travis-ci.org/jmank88/amqp)
 
 API changes unlikely and will be discussed on [Github
 issues](https://github.com/streadway/amqp/issues) along with any bugs or
@@ -50,7 +50,7 @@ please file an issue.
 
 # Documentation
 
-Use [Godoc documentation](http://godoc.org/github.com/streadway/amqp) for
+Use [Godoc documentation](http://godoc.org/github.com/jmank88/amqp) for
 reference and usage.
 
 [RabbitMQ tutorials in
